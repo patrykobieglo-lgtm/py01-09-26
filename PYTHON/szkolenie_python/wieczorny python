@@ -1,0 +1,4 @@
+wiek = int(input("Ile masz lat? "))
+
+print(f"Masz {wiek} lata.")
+print(f"Za 10 lat będziesz miał {wiek + 10} lata.")

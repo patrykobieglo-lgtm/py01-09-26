@@ -1,0 +1,3 @@
+user_name = input("Podaj swoje imię: ")
+print("Cześć,", user_name, "!")
+

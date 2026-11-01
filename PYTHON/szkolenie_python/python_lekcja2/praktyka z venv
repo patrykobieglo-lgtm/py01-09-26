@@ -1,0 +1,12 @@
+source venv/bin/activate
+# Errors should never pass silently.
+# Błędy nie powinny przechodzić po cichu.
+# Przykład: zamiast ignorować wyjątek, wyświetlam komunikat błędu.
+
+# Simple is better than complex.
+# Proste jest lepsze niż złożone.
+# Przykład: używam pętli for zamiast skomplikowanych konstrukcji.
+
+# Readability counts.
+# Czytelność ma znaczenie.
+# Przykład: zmienna wiek_uzytkownika jest lepsza niż w.

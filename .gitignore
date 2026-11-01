@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Środowiska wirtualne
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Pliki konfiguracyjne i sekrety
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Dodatkowe środowiska testowe
+**/test_venv/
